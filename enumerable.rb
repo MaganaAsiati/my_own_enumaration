@@ -7,4 +7,12 @@ odule MyEnumerable
       true
     end
   
-    
+    # The method returns true if the block ever returns true.
+    def any?
+      each do |item|
+        return true if yield item
+      end
+      false
+    end
+  
+  
