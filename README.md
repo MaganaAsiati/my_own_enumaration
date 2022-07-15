@@ -15,7 +15,7 @@
 
 - Clone the project
 ```terminal
-git clone < https://github.com/MaganaAsiati/morse_code.git >
+git clone <https://github.com/MaganaAsiati/my_own_enumaration.git>
 ```
 
 - cd into the project directory
