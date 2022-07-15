@@ -1,3 +1,5 @@
+require './enumerable'
+
 class MyList
   include MyEnumerable
 
