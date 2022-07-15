@@ -16,3 +16,7 @@ p(list.all? { |item| item < 5 })
 
 p(list.all? { |item| item > 5 })
 
+p(list.any? { |item| item == 2 })
+
+p(list.any? { |item| item == 5 })
+
