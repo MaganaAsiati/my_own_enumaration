@@ -15,4 +15,12 @@ odule MyEnumerable
       false
     end
   
-  
+    # Returns an array containing all elements of enum for which the given block returns a true value.
+    def filter
+      result = []
+      each do |item|
+        result.push(item) if yield item
+      end
+      result
+    end
+  end
