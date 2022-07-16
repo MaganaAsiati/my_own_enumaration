@@ -15,7 +15,7 @@
 
 - Clone the project
 ```terminal
-git clone < https://github.com/MaganaAsiati/morse_code.git >
+git clone <https://github.com/MaganaAsiati/my_own_enumaration.git>
 ```
 
 - cd into the project directory
@@ -30,6 +30,10 @@ cd <local folder>
 - Twitter: [@asia_magana](https://twitter.com/asia_magana)
 - LinkedIn: [Asia Magana](https://www.linkedin.com/in/asia-magana-60b451200/)
 
+👤 **Assad Isah**
+
+- GitHub: [@nottherealalanturing](https://github.com/nottherealalanturing)
+- LinkedIn: [Assad Isah](https://www.linkedin.com/in/assadisah/)
 
 ## 🤝 Contributing
 
